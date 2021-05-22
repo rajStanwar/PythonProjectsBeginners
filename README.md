@@ -1,1 +1,1 @@
-Start of thr python projects.
+Start of the python projects.
